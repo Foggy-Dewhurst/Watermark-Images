@@ -7,6 +7,7 @@ This PowerShell script automates the process of adding watermarks to PNG images.
 - PowerShell 5.0 or higher.
 - The script assumes you have a watermark image named `aishorts.png` located in your source directory.
 - The `ImagePlayground` module must be installed. Run the following command to install it:
+  
   ```powershell
   Install-Module ImagePlayground -Force -Verbose
 
